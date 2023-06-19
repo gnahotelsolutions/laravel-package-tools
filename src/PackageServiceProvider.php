@@ -11,7 +11,7 @@ use Spatie\LaravelPackageTools\Exceptions\InvalidPackage;
 
 abstract class PackageServiceProvider extends ServiceProvider
 {
-    protected Package $package;
+    protected $package;
 
     abstract public function configurePackage(Package $package): void;
 
