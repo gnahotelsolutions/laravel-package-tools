@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools\Tests;
+namespace GNAHotelSolutions\LaravelPackageTools\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 

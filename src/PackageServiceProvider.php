@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools;
+namespace GNAHotelSolutions\LaravelPackageTools;
 
 use Carbon\Carbon;
 use Illuminate\Support\Facades\View;

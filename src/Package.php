@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools;
+namespace GNAHotelSolutions\LaravelPackageTools;
 
 use Illuminate\Support\Str;
 use GNAHotelSolutions\LaravelPackageTools\Commands\InstallCommand;

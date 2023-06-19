@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools\Commands;
+namespace GNAHotelSolutions\LaravelPackageTools\Commands;
 
 use Closure;
 use Illuminate\Console\Command;

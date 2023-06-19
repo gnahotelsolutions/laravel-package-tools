@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools\Database\Factories;
+namespace GNAHotelSolutions\LaravelPackageTools\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

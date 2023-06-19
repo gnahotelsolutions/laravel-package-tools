@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools\Tests\PackageServiceProviderTests;
+namespace GNAHotelSolutions\LaravelPackageTools\Tests\PackageServiceProviderTests;
 
 use Illuminate\Support\Facades\File;
 use GNAHotelSolutions\LaravelPackageTools\Package;

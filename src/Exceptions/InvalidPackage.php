@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools\Exceptions;
+namespace GNAHotelSolutions\LaravelPackageTools\Exceptions;
 
 use Exception;
 

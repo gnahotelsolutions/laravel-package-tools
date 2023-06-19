@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Spatie\LaravelPackageTools\Tests\TestPackage\Src;
+namespace GNAHotelSolutions\LaravelPackageTools\Tests\TestPackage\Src;
 
 use Closure;
 use GNAHotelSolutions\LaravelPackageTools\Package;
