@@ -1,7 +1,7 @@
 <?php
 
-use Spatie\LaravelPackageTools\Package;
-use Spatie\LaravelPackageTools\Tests\TestClasses\TestCommand;
+use GNAHotelSolutions\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Tests\TestClasses\TestCommand;
 
 trait ConfigurePackageCommandTest
 {

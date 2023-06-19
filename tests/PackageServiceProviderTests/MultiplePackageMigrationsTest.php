@@ -1,7 +1,7 @@
 <?php
 
 use function PHPUnit\Framework\assertFileExists;
-use Spatie\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Package;
 use function Spatie\PestPluginTestTime\testTime;
 
 trait ConfigureMultiplePackageMigrationsTest

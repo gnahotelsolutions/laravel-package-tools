@@ -1,7 +1,7 @@
 <?php
 
 use function PHPUnit\Framework\assertTrue;
-use Spatie\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Package;
 
 trait ConfigurePackageNameTest
 {

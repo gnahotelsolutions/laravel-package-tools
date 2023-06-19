@@ -4,8 +4,8 @@
 namespace Spatie\LaravelPackageTools\Tests\TestPackage\Src;
 
 use Closure;
-use Spatie\LaravelPackageTools\Package;
-use Spatie\LaravelPackageTools\PackageServiceProvider;
+use GNAHotelSolutions\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\PackageServiceProvider;
 
 class ServiceProvider extends PackageServiceProvider
 {

@@ -1,10 +1,10 @@
 <?php
 
-use Spatie\LaravelPackageTools\Package;
-use Spatie\LaravelPackageTools\Tests\TestClasses\FourthTestCommand;
-use Spatie\LaravelPackageTools\Tests\TestClasses\OtherTestCommand;
-use Spatie\LaravelPackageTools\Tests\TestClasses\TestCommand;
-use Spatie\LaravelPackageTools\Tests\TestClasses\ThirdTestCommand;
+use GNAHotelSolutions\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Tests\TestClasses\FourthTestCommand;
+use GNAHotelSolutions\LaravelPackageTools\Tests\TestClasses\OtherTestCommand;
+use GNAHotelSolutions\LaravelPackageTools\Tests\TestClasses\TestCommand;
+use GNAHotelSolutions\LaravelPackageTools\Tests\TestClasses\ThirdTestCommand;
 
 trait ConfigurePackageCommandsTest
 {

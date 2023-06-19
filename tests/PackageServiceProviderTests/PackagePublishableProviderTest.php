@@ -2,7 +2,7 @@
 
 use function PHPUnit\Framework\assertFileDoesNotExist;
 use function PHPUnit\Framework\assertFileExists;
-use Spatie\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Package;
 
 trait ConfigurePackagePublishableProviderTest
 {

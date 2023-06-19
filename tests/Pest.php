@@ -10,7 +10,7 @@
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
 use function PHPUnit\Framework\assertTrue;
-use Spatie\LaravelPackageTools\Tests\PackageServiceProviderTests\PackageServiceProviderTestCase;
+use GNAHotelSolutions\LaravelPackageTools\Tests\PackageServiceProviderTests\PackageServiceProviderTestCase;
 use Symfony\Component\Finder\SplFileInfo;
 
 uses(PackageServiceProviderTestCase::class)->in('PackageServiceProviderTests');

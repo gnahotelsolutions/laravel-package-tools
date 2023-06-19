@@ -5,7 +5,7 @@ namespace Spatie\LaravelPackageTools\Commands;
 use Closure;
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;
-use Spatie\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Package;
 
 class InstallCommand extends Command
 {
@@ -53,7 +53,7 @@ class InstallCommand extends Command
                 '--tag' => "{$this->package->shortName()}-config",
             ]);
         }
-        
+
         if ($this->shouldPublishAssets) {
             $this->comment('Publishing assets...');
 
@@ -113,7 +113,7 @@ class InstallCommand extends Command
 
         return $this;
     }
-    
+
     public function publishAssets(): self
     {
         $this->shouldPublishAssets = true;

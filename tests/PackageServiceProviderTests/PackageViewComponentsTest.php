@@ -2,8 +2,8 @@
 
 use function PHPUnit\Framework\assertFileExists;
 use function PHPUnit\Framework\assertStringStartsWith;
-use Spatie\LaravelPackageTools\Package;
-use Spatie\LaravelPackageTools\Tests\TestPackage\Src\Components\TestComponent;
+use GNAHotelSolutions\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Tests\TestPackage\Src\Components\TestComponent;
 
 trait ConfigurePackageViewComponentsTest
 {

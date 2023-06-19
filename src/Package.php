@@ -3,7 +3,7 @@
 namespace Spatie\LaravelPackageTools;
 
 use Illuminate\Support\Str;
-use Spatie\LaravelPackageTools\Commands\InstallCommand;
+use GNAHotelSolutions\LaravelPackageTools\Commands\InstallCommand;
 
 class Package
 {

@@ -1,7 +1,7 @@
 <?php
 
-use Spatie\LaravelPackageTools\Commands\InstallCommand;
-use Spatie\LaravelPackageTools\Package;
+use GNAHotelSolutions\LaravelPackageTools\Commands\InstallCommand;
+use GNAHotelSolutions\LaravelPackageTools\Package;
 
 trait ConfigureMigrationTest
 {

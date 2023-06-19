@@ -2,10 +2,9 @@
     "name": "gnahotelsolutions/laravel-package-tools",
     "description": "Tools for creating Laravel packages",
     "keywords": [
-        "spatie",
         "laravel-package-tools"
     ],
-    "homepage": "https://github.com/spatie/laravel-package-tools",
+    "homepage": "https://github.com/gnahotelsolutions/laravel-package-tools",
     "license": "MIT",
     "authors": [
         {
@@ -26,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\LaravelPackageTools\\": "src"
+            "GNAHotelSolutions\\LaravelPackageTools\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\LaravelPackageTools\\Tests\\": "tests"
+            "GNAHotelSolutions\\LaravelPackageTools\\Tests\\": "tests"
         }
     },
     "scripts": {

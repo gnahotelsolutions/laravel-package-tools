@@ -2,7 +2,7 @@
 
 namespace App\Providers;
 
-use Spatie\LaravelPackageTools\Tests\TestPackage\Src\ServiceProvider;
+use GNAHotelSolutions\LaravelPackageTools\Tests\TestPackage\Src\ServiceProvider;
 
 class MyPackageServiceProvider extends ServiceProvider
 {
